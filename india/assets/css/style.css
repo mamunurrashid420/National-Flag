@@ -1,0 +1,47 @@
+/*.div1{
+	background-color: #6CACE4;
+	width: 500px;
+	height: 100px;
+	margin: 0px auto;
+	margin-top: 20px;
+	overflow: hidden;
+}
+.div2{
+	background-color: white;
+	/*border-radius: 50%;*
+	height: 100px;
+	width: 500px;
+	margin: 0px auto;
+	text-align: center;
+}
+.div2 img{
+	width: 100px;
+	height: 100px;
+	
+}*/
+.div1{
+	background-color: #F4C430;
+	width: 500px;
+	height: 100px;
+	margin: 0px auto;
+	margin-top: 50px;
+
+}
+.white{
+	background-color: white;
+	width: 500px;
+	height: 100px;
+	margin: 0px auto;
+	text-align: center;
+}
+.white img{
+	width: 100px;
+	height: 100px;
+}
+.green{
+	background-color: green;
+	width: 500px;
+	height: 100px;
+	margin: 0px auto;
+
+}
