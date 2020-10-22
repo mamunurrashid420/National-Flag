@@ -1,0 +1,25 @@
+.body{
+	display: flex;
+	margin: 50px 30px 50px;
+	background-color: #d4770c3d;
+	justify-content: center;
+ 
+}
+.blue{
+	background-color: blue;
+	width: 167px;
+	height: 300px;
+
+}
+.white{
+	background-color: white;
+	width: 167px;
+	height: 300px;
+	 
+}
+.red{
+	background-color: red;
+	width: 167px;
+	height: 300px;
+ 
+}
